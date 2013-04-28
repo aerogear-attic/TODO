@@ -1,5 +1,6 @@
 AeroGear TODO Application
 =========================
+[![Build Status](https://travis-ci.org/aerogear/TODO.png)](https://travis-ci.org/aerogear/TODO)
 
 What is it?
 -----------
